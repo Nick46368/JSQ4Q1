@@ -30,3 +30,4 @@ En þeir með ríki fara.
 Heilir hildar til,
 Heilir hildi frá,
 Koma þeir heilir hvaðan.
+seems like works Jenkins
